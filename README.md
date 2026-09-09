@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rosannechugh/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rosannechugh/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
 | ------- |
@@ -169,4 +170,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rosannechugh/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rosannechugh/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
