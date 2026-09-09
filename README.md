@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rosannechugh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rosannechugh/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rosannechugh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rosannechugh/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Trie
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rosannechugh/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
