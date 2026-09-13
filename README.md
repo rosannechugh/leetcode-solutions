@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rosannechugh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rosannechugh/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rosannechugh/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rosannechugh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rosannechugh/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rosannechugh/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rosannechugh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/rosannechugh/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -154,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rosannechugh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rosannechugh/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -184,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rosannechugh/leetcode-solutions/tree/master/0202-happy-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
