@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rosannechugh/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rosannechugh/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rosannechugh/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rosannechugh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/rosannechugh/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rosannechugh/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rosannechugh/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rosannechugh/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rosannechugh/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rosannechugh/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
