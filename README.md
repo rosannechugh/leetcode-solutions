@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/rosannechugh/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rosannechugh/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rosannechugh/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/rosannechugh/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Trie
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rosannechugh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rosannechugh/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/rosannechugh/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## DP on Trees
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rosannechugh/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/rosannechugh/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Binary Indexed Tree
 |  |
 | ------- |
