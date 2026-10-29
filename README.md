@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rosannechugh/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rosannechugh/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rosannechugh/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/rosannechugh/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/rosannechugh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rosannechugh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rosannechugh/leetcode-solutions/tree/master/0055-jump-game) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rosannechugh/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/rosannechugh/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rosannechugh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rosannechugh/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rosannechugh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rosannechugh/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/rosannechugh/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rosannechugh/leetcode-solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/rosannechugh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/rosannechugh/leetcode-solutions/tree/master/3919-minimum-cost-to-move-between-indices) |
